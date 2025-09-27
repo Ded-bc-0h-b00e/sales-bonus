@@ -1,3 +1,4 @@
+https://github.com/Ded-bc-0h-b00e/sales-bonus
 # Проектная работа "Пряники"
 5 спринт, модуль JS
 
